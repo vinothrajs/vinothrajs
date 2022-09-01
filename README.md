@@ -54,9 +54,4 @@ Looking forward to provide solution for real time problem with modern tech stack
 [<img align="left" alt="Skype" src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" />]( skype:vinothrajs1988)
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]( mailto:vinothrajs88@gmail.com)
 
-<br/>
-<div align="left">
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinothrajs&show_icons=true&theme=radical)
-</div>
-
 
