@@ -1,31 +1,45 @@
 
-<h1 align="left">👋 I'm Vinoth Raj</h1>
+<h1 align="left">👋 I'm Vinoth Raj </h1>
+
+### About Me :
 
 - I'm a full software Engineer experience with building web based applications for past 11+ years in IT Industry 
 - Past 3+ years involves in building Micro-Service based architect systems and Serverless architect systems in cloud platform with scalable & reliable model.
 
-My top skill include , but are not limited to:
+### My skill include's
+[but are not limited to]
 
-* Node.js Development - express Js Api 
+Backend Framework's
+
+* Node.js REST API's - express Js  
 * .NET Core Development - ASP.NET / Web api 
-* Angular Framework
-* Backend Web Development
+* Redis Cache 
+* Pub Sub model Rabbitmq
 * Python Development - Flask API
-* Web App Development
 * Cloud - AWS Ec2 , S3 , Lambda .
 * Automation Scripts
 * API Integrations - I can read document and integrate basically anything!
 * MEAN Stack Development
 * Docker Container
+
+Database
+
 * MySql
 * SQL Server
 * Mongo DB
 
+Front End
+
+* Html , Css , Boootstrap
+* Angular 10+ Framework
+
 Platform
+
 - Linux
 - Windows
 
 Hosting 
+
 - NGINX
 - IIS
 - SSL Certificate
@@ -39,3 +53,6 @@ Looking forward to provide solution for real time problem with modern tech stack
 [<img align="left" alt="Skype" src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" />]( skype:vinothrajs1988)
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]( mailto:vinothrajs88@gmail.com)
 
+<br/>
+
+### Completed Projects 
