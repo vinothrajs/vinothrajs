@@ -1,5 +1,6 @@
 
 <h1 align="left">👋 I'm Vinoth Raj </h1>
+<p> Full Stack Engineer | Cloud Solution Provider | Love's Backend Architech </p>
 
 ### About Me :
 
@@ -54,5 +55,8 @@ Looking forward to provide solution for real time problem with modern tech stack
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]( mailto:vinothrajs88@gmail.com)
 
 <br/>
+<div align="left">
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinothrajs&show_icons=true&theme=radical)
+</div>
 
-### Completed Projects 
+
