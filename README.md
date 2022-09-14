@@ -51,7 +51,7 @@ Looking forward to provide solution for real time problem with modern tech stack
 
 ### Connect with me 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]( https://www.linkedin.com/in/vinothrajs)
-[<img align="left" alt="Skype" src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" />]( skype:vinothrajs1988)
+
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]( mailto:vinothrajs88@gmail.com)
 
 
