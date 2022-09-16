@@ -22,6 +22,7 @@ Backend Framework's
 * API Integrations - I can read document and integrate basically anything!
 * MEAN Stack Development
 * Docker Container
+* AWS Marketplace Integration
 
 Database
 
