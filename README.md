@@ -4,7 +4,7 @@
 
 ### About Me :
 
-- I'm a full software Engineer experience with building web based applications for past 11+ years in IT Industry 
+- I'm a full software Engineer experience with building web based applications for past 12+ years in IT Industry 
 - Past 3+ years involves in building Micro-Service based architect systems and Serverless architect systems in cloud platform with scalable & reliable model.
 
 ### My skill include's
