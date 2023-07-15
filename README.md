@@ -4,25 +4,26 @@
 
 ### About Me :
 
-- I'm a full software Engineer experience with building web based applications for past 12+ years in IT Industry 
-- Past 3+ years involves in building Micro-Service based architect systems and Serverless architect systems in cloud platform with scalable & reliable model.
+- I'm a full software Engineer with experience with building web-based applications for the past 13+ years in IT Industry 
+- Past 3+ years involves in building Micro-Service based architect systems and Serverless architect systems in cloud platforms with scalable & reliable models.
 
 ### My skill include's
 [but are not limited to]
 
 Backend Framework's
 
-* Node.js REST API's - express Js  
-* .NET Core Development - ASP.NET / Web api 
+* Node.js  
+* .NET Core  
 * Redis Cache 
-* Pub Sub model Rabbitmq
+* Pub-Sub model rabbitmq
 * Python Development - Flask API
 * Cloud - AWS Ec2 , S3 , Lambda .
 * Automation Scripts
-* API Integrations - I can read document and integrate basically anything!
+* API Integrations - I can read documents and integrate basically anything!
 * MEAN Stack Development
 * Docker Container
 * AWS Marketplace Integration
+* golang 
 
 Database
 
@@ -32,7 +33,7 @@ Database
 
 Front End
 
-* Html , Css , Boootstrap
+* Html, CSS , Bootstrap
 * Angular 10+ Framework
 
 Platform
@@ -46,7 +47,7 @@ Hosting
 - IIS
 - SSL Certificate
 
-Love to Learn New stuffs ! Recently inspired by Cloud Stacks !
+Love to Learn New stuff! Recently inspired by Cloud Stacks!
 
 Looking forward to provide solution for real time problem with modern tech stack.
 
