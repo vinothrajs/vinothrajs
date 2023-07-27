@@ -27,7 +27,7 @@ Backend Framework's
 
 Database
 
-* MySql
+* MySql / Postgresql
 * SQL Server
 * Mongo DB
 
@@ -35,17 +35,8 @@ Front End
 
 * Html, CSS , Bootstrap
 * Angular 10+ Framework
+* React 18
 
-Platform
-
-- Linux
-- Windows
-
-Hosting 
-
-- NGINX
-- IIS
-- SSL Certificate
 
 Love to Learn New stuff! Recently inspired by Cloud Stacks!
 
