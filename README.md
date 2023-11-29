@@ -1,6 +1,6 @@
 
 <h1 align="left">👋 I'm Vinoth Raj </h1>
-<p> Full Stack Solution Architect  | Cloud Solution Provider | Love's Backend Architech </p>
+<p>Solution Architect  | Cloud Solution Provider | Love's Backend Architech </p>
 
 ### About Me :
 
