@@ -12,29 +12,24 @@
 
 Backend Framework's
 
-* MEAN / MERN Stack 
-* .NET Core  
-* Redis Cache 
-* Pub-Sub model rabbitmq
-* Python Development - Flask API / Fast API
-* Cloud - AWS & GCP
-* Automation Scripts
-* API Integrations - I can read documents and integrate basically anything!
+* Node API - Express JS 
+* Python REST API - Flask API / Fast API
+* Django / .NET Core Web Development
+* AWS Cloud
+* API Integrations - I can read documents and integrate anything!
 * Docker Container
-* AWS Marketplace Integration
-* golang
-* Open AI
+* Open AI Integration
+* Pub-Sub model rabbitmq
+* Automation Scripts
 
 Database
 
 * MySql / Postgresql
-* SQL Server
 * Mongo DB
 
 Front End
 
 * Html, CSS, Bootstrap
-* Angular 10+ Framework
 * React 18
 
 
