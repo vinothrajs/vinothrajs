@@ -30,7 +30,8 @@ Database
 Front End
 
 * Html, CSS, Bootstrap
-* React 18
+* React
+* Angular
 
 
 Love to Learn New stuff! Recently inspired by Cloud Stacks!
