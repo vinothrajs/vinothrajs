@@ -12,9 +12,11 @@
 
 Backend Framework's
 
-* Node API - Express JS 
-* Python REST API - Flask API / Fast API
-* Django / .NET Core Web Development
+*  Frappe Framework | Strapi
+* Python REST API - Fast API
+* Node API - Express JS
+* Django
+* .NET Core 
 * AWS Cloud
 * API Integrations - I can read documents and integrate anything!
 * Docker Container
@@ -30,8 +32,7 @@ Database
 Front End
 
 * Html, CSS, Bootstrap
-* React
-* Angular
+* Vue , Angular
 
 
 Love to Learn New stuff! Recently inspired by Cloud Stacks!
